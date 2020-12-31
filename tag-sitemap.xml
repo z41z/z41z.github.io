@@ -3,6 +3,34 @@
 
 
     <url>
+        <loc>https://www.alipay.one/tags/BIND9/</loc>
+        <lastmod>2020-12-31T07:29:36.829Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/内网DNS搭建/</loc>
+        <lastmod>2020-12-31T07:29:36.829Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/DNS/</loc>
+        <lastmod>2020-12-31T07:29:36.829Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/Windows10/</loc>
+        <lastmod>2020-12-31T07:29:36.829Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://www.alipay.one/tags/WinDefend/</loc>
         <lastmod>2020-12-30T03:36:04.275Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -122,6 +150,13 @@
     </url>
 
     <url>
+        <loc>https://www.alipay.one/tags/Docker/</loc>
+        <lastmod>2020-12-30T03:34:31.199Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://www.alipay.one/tags/Cockpit/</loc>
         <lastmod>2020-12-30T03:34:31.199Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -130,13 +165,6 @@
 
     <url>
         <loc>https://www.alipay.one/tags/CentOS/</loc>
-        <lastmod>2020-12-30T03:34:31.199Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.alipay.one/tags/Docker/</loc>
         <lastmod>2020-12-30T03:34:31.199Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -185,34 +213,6 @@
     </url>
 
     <url>
-        <loc>https://www.alipay.one/tags/BIND9/</loc>
-        <lastmod>2020-12-30T03:31:52.645Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.alipay.one/tags/内网DNS搭建/</loc>
-        <lastmod>2020-12-30T03:31:52.645Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.alipay.one/tags/DNS/</loc>
-        <lastmod>2020-12-30T03:31:52.645Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.alipay.one/tags/Windows10/</loc>
-        <lastmod>2020-12-30T03:31:52.645Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://www.alipay.one/tags/Xlib-XInputExtension/</loc>
         <lastmod>2020-12-24T07:13:50.262Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -248,13 +248,6 @@
     </url>
 
     <url>
-        <loc>https://www.alipay.one/tags/MySQL/</loc>
-        <lastmod>2020-12-24T07:13:22.650Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://www.alipay.one/tags/SqlMap/</loc>
         <lastmod>2020-12-24T07:13:22.650Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -263,6 +256,13 @@
 
     <url>
         <loc>https://www.alipay.one/tags/PHP/</loc>
+        <lastmod>2020-12-24T07:13:22.650Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/MySQL/</loc>
         <lastmod>2020-12-24T07:13:22.650Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>

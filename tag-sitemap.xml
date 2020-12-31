@@ -3,29 +3,50 @@
 
 
     <url>
+        <loc>https://www.alipay.one/tags/server-name/</loc>
+        <lastmod>2020-12-31T07:33:30.566Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/域名解析/</loc>
+        <lastmod>2020-12-31T07:33:30.566Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://www.alipay.one/tags/BIND9/</loc>
-        <lastmod>2020-12-31T07:29:36.829Z</lastmod>
+        <lastmod>2020-12-31T07:33:30.566Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://www.alipay.one/tags/内网DNS搭建/</loc>
-        <lastmod>2020-12-31T07:29:36.829Z</lastmod>
+        <lastmod>2020-12-31T07:33:30.566Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://www.alipay.one/tags/DNS/</loc>
-        <lastmod>2020-12-31T07:29:36.829Z</lastmod>
+        <lastmod>2020-12-31T07:33:30.566Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://www.alipay.one/tags/Windows10/</loc>
-        <lastmod>2020-12-31T07:29:36.829Z</lastmod>
+        <lastmod>2020-12-31T07:33:30.566Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/nginx/</loc>
+        <lastmod>2020-12-31T07:33:30.566Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -130,13 +151,6 @@
 
     <url>
         <loc>https://www.alipay.one/tags/proxy-pass/</loc>
-        <lastmod>2020-12-30T03:35:29.499Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.alipay.one/tags/nginx/</loc>
         <lastmod>2020-12-30T03:35:29.499Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>

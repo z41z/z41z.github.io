@@ -234,6 +234,13 @@
     </url>
 
     <url>
+        <loc>https://www.alipay.one/tags/Docker/</loc>
+        <lastmod>2020-12-30T03:34:31.199Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://www.alipay.one/tags/Cockpit/</loc>
         <lastmod>2020-12-30T03:34:31.199Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -242,13 +249,6 @@
 
     <url>
         <loc>https://www.alipay.one/tags/CentOS/</loc>
-        <lastmod>2020-12-30T03:34:31.199Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.alipay.one/tags/Docker/</loc>
         <lastmod>2020-12-30T03:34:31.199Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>

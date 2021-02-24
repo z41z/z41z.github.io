@@ -3,6 +3,34 @@
 
 
     <url>
+        <loc>https://www.alipay.one/tags/Chrome开发者工具/</loc>
+        <lastmod>2021-02-24T03:18:01.083Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/Google/</loc>
+        <lastmod>2021-02-24T03:18:01.083Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/DevTools/</loc>
+        <lastmod>2021-02-24T03:18:01.083Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/Chrome/</loc>
+        <lastmod>2021-02-24T03:18:01.083Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://www.alipay.one/tags/单页应用/</loc>
         <lastmod>2021-02-20T01:06:25.546Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -82,34 +110,6 @@
     <url>
         <loc>https://www.alipay.one/tags/nginx/</loc>
         <lastmod>2021-02-20T01:06:25.546Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.alipay.one/tags/Chrome开发者工具/</loc>
-        <lastmod>2021-02-19T09:05:15.420Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.alipay.one/tags/Google/</loc>
-        <lastmod>2021-02-19T09:05:15.420Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.alipay.one/tags/DevTools/</loc>
-        <lastmod>2021-02-19T09:05:15.420Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.alipay.one/tags/Chrome/</loc>
-        <lastmod>2021-02-19T09:05:15.420Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

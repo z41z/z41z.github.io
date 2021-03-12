@@ -4,35 +4,63 @@
 
     <url>
         <loc>https://www.alipay.one/tags/管理规范/</loc>
-        <lastmod>2021-03-10T06:42:01.214Z</lastmod>
+        <lastmod>2021-03-12T02:37:55.889Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://www.alipay.one/tags/测试规范/</loc>
-        <lastmod>2021-03-10T06:42:01.214Z</lastmod>
+        <lastmod>2021-03-12T02:37:55.889Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://www.alipay.one/tags/开发规范/</loc>
-        <lastmod>2021-03-10T06:42:01.214Z</lastmod>
+        <lastmod>2021-03-12T02:37:55.889Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://www.alipay.one/tags/项目管理/</loc>
-        <lastmod>2021-03-10T06:42:01.214Z</lastmod>
+        <lastmod>2021-03-12T02:37:55.889Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://www.alipay.one/tags/项目规范/</loc>
-        <lastmod>2021-03-10T06:42:01.214Z</lastmod>
+        <lastmod>2021-03-12T02:37:55.889Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/pptr/</loc>
+        <lastmod>2021-03-11T00:05:46.038Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/Chrome/</loc>
+        <lastmod>2021-03-11T00:05:46.038Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/Google/</loc>
+        <lastmod>2021-03-11T00:05:46.038Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/Puppeteer/</loc>
+        <lastmod>2021-03-11T00:05:46.038Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -45,21 +73,7 @@
     </url>
 
     <url>
-        <loc>https://www.alipay.one/tags/Google/</loc>
-        <lastmod>2021-03-08T10:03:25.603Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://www.alipay.one/tags/DevTools/</loc>
-        <lastmod>2021-03-08T10:03:25.603Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.alipay.one/tags/Chrome/</loc>
         <lastmod>2021-03-08T10:03:25.603Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -319,13 +333,6 @@
 
     <url>
         <loc>https://www.alipay.one/tags/富文本导出/</loc>
-        <lastmod>2020-12-30T03:33:20.808Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.alipay.one/tags/Puppeteer/</loc>
         <lastmod>2020-12-30T03:33:20.808Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>

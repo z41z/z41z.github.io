@@ -3,6 +3,83 @@
 
 
     <url>
+        <loc>https://www.alipay.one/tags/Kali/</loc>
+        <lastmod>2021-03-12T03:06:32.051Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/Fiddler/</loc>
+        <lastmod>2021-03-12T03:06:32.051Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/BurpSuite/</loc>
+        <lastmod>2021-03-12T03:06:32.051Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/bWAPP/</loc>
+        <lastmod>2021-03-12T03:06:32.051Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/bwapp/</loc>
+        <lastmod>2021-03-12T03:06:32.051Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/乌云/</loc>
+        <lastmod>2021-03-12T03:06:32.051Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/SQL-Injection/</loc>
+        <lastmod>2021-03-12T03:06:32.051Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/OWASP-Top-10/</loc>
+        <lastmod>2021-03-12T03:06:32.051Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/pentesting/</loc>
+        <lastmod>2021-03-12T03:06:32.051Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/渗透测试/</loc>
+        <lastmod>2021-03-12T03:06:32.051Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/SqlMap/</loc>
+        <lastmod>2021-03-12T03:06:32.051Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://www.alipay.one/tags/管理规范/</loc>
         <lastmod>2021-03-12T02:37:55.889Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -374,7 +451,7 @@
     </url>
 
     <url>
-        <loc>https://www.alipay.one/tags/SqlMap/</loc>
+        <loc>https://www.alipay.one/tags/MySQL/</loc>
         <lastmod>2020-12-24T07:13:22.650Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -382,13 +459,6 @@
 
     <url>
         <loc>https://www.alipay.one/tags/PHP/</loc>
-        <lastmod>2020-12-24T07:13:22.650Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.alipay.one/tags/MySQL/</loc>
         <lastmod>2020-12-24T07:13:22.650Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>

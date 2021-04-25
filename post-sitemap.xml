@@ -9,6 +9,30 @@
 
 
     <url>
+        <loc>https://www.alipay.one/post/introduce-puppeteer/</loc>
+        <lastmod>2021-04-25T06:55:33.219Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/post/nginx-common-options/</loc>
+        <lastmod>2021-04-25T03:02:47.608Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/post/project-standard/</loc>
+        <lastmod>2021-04-25T02:54:21.343Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://www.alipay.one/post/introduce-pentesting/</loc>
         <lastmod>2021-03-12T03:06:32.051Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -17,32 +41,8 @@
     </url>
 
     <url>
-        <loc>https://www.alipay.one/post/project-standard/</loc>
-        <lastmod>2021-03-12T02:37:55.889Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://www.alipay.one/post/introduce-puppeteer/</loc>
-        <lastmod>2021-03-11T00:05:46.038Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://www.alipay.one/post/introduce-chrome-devtools/</loc>
         <lastmod>2021-03-08T10:03:25.603Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://www.alipay.one/post/nginx-common-options/</loc>
-        <lastmod>2021-02-20T01:06:25.546Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 

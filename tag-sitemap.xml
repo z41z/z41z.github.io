@@ -3,6 +3,90 @@
 
 
     <url>
+        <loc>https://www.alipay.one/tags/单页应用/</loc>
+        <lastmod>2021-06-21T00:26:09.203Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/负载均衡/</loc>
+        <lastmod>2021-06-21T00:26:09.203Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/反向代理/</loc>
+        <lastmod>2021-06-21T00:26:09.203Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/大文件上传/</loc>
+        <lastmod>2021-06-21T00:26:09.203Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/动态代理/</loc>
+        <lastmod>2021-06-21T00:26:09.203Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/rewrite/</loc>
+        <lastmod>2021-06-21T00:26:09.203Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/SPA/</loc>
+        <lastmod>2021-06-21T00:26:09.203Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/upstream/</loc>
+        <lastmod>2021-06-21T00:26:09.203Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/client-max-body-size/</loc>
+        <lastmod>2021-06-21T00:26:09.203Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/minio/</loc>
+        <lastmod>2021-06-21T00:26:09.203Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/proxy-pass/</loc>
+        <lastmod>2021-06-21T00:26:09.203Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/nginx/</loc>
+        <lastmod>2021-06-21T00:26:09.203Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://www.alipay.one/tags/SSL/</loc>
         <lastmod>2021-06-18T01:01:10.244Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -33,90 +117,6 @@
     <url>
         <loc>https://www.alipay.one/tags/CentOS/</loc>
         <lastmod>2021-06-18T01:01:10.244Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.alipay.one/tags/nginx/</loc>
-        <lastmod>2021-06-18T01:01:10.244Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.alipay.one/tags/单页应用/</loc>
-        <lastmod>2021-06-03T02:42:49.507Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.alipay.one/tags/负载均衡/</loc>
-        <lastmod>2021-06-03T02:42:49.507Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.alipay.one/tags/反向代理/</loc>
-        <lastmod>2021-06-03T02:42:49.507Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.alipay.one/tags/大文件上传/</loc>
-        <lastmod>2021-06-03T02:42:49.507Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.alipay.one/tags/动态代理/</loc>
-        <lastmod>2021-06-03T02:42:49.507Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.alipay.one/tags/rewrite/</loc>
-        <lastmod>2021-06-03T02:42:49.507Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.alipay.one/tags/SPA/</loc>
-        <lastmod>2021-06-03T02:42:49.507Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.alipay.one/tags/upstream/</loc>
-        <lastmod>2021-06-03T02:42:49.507Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.alipay.one/tags/client-max-body-size/</loc>
-        <lastmod>2021-06-03T02:42:49.507Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.alipay.one/tags/minio/</loc>
-        <lastmod>2021-06-03T02:42:49.507Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.alipay.one/tags/proxy-pass/</loc>
-        <lastmod>2021-06-03T02:42:49.507Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -395,14 +395,14 @@
     </url>
 
     <url>
-        <loc>https://www.alipay.one/tags/Cockpit/</loc>
+        <loc>https://www.alipay.one/tags/Docker/</loc>
         <lastmod>2020-12-30T03:34:31.199Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://www.alipay.one/tags/Docker/</loc>
+        <loc>https://www.alipay.one/tags/Cockpit/</loc>
         <lastmod>2020-12-30T03:34:31.199Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>

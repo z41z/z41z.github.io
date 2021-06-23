@@ -4,70 +4,70 @@
 
     <url>
         <loc>https://www.alipay.one/tags/nmake/</loc>
-        <lastmod>2021-06-23T00:32:15.848Z</lastmod>
+        <lastmod>2021-06-23T00:35:12.620Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://www.alipay.one/tags/OpenSSL/</loc>
-        <lastmod>2021-06-23T00:32:15.848Z</lastmod>
+        <lastmod>2021-06-23T00:35:12.620Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://www.alipay.one/tags/zlib/</loc>
-        <lastmod>2021-06-23T00:32:15.848Z</lastmod>
+        <lastmod>2021-06-23T00:35:12.620Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://www.alipay.one/tags/PCRE/</loc>
-        <lastmod>2021-06-23T00:32:15.848Z</lastmod>
+        <lastmod>2021-06-23T00:35:12.620Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://www.alipay.one/tags/Mercurial/</loc>
-        <lastmod>2021-06-23T00:32:15.848Z</lastmod>
+        <lastmod>2021-06-23T00:35:12.620Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://www.alipay.one/tags/Perl/</loc>
-        <lastmod>2021-06-23T00:32:15.848Z</lastmod>
+        <lastmod>2021-06-23T00:35:12.620Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://www.alipay.one/tags/MSYS2/</loc>
-        <lastmod>2021-06-23T00:32:15.848Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.alipay.one/tags/Windows/</loc>
-        <lastmod>2021-06-23T00:32:15.848Z</lastmod>
+        <lastmod>2021-06-23T00:35:12.620Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://www.alipay.one/tags/nginx编译/</loc>
-        <lastmod>2021-06-23T00:32:15.848Z</lastmod>
+        <lastmod>2021-06-23T00:35:12.620Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/Windows/</loc>
+        <lastmod>2021-06-23T00:35:12.620Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://www.alipay.one/tags/nginx/</loc>
-        <lastmod>2021-06-23T00:32:15.848Z</lastmod>
+        <lastmod>2021-06-23T00:35:12.620Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -444,14 +444,14 @@
     </url>
 
     <url>
-        <loc>https://www.alipay.one/tags/Docker/</loc>
+        <loc>https://www.alipay.one/tags/Cockpit/</loc>
         <lastmod>2020-12-30T03:34:31.199Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://www.alipay.one/tags/Cockpit/</loc>
+        <loc>https://www.alipay.one/tags/Docker/</loc>
         <lastmod>2020-12-30T03:34:31.199Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>

@@ -9,6 +9,14 @@
 
 
     <url>
+        <loc>https://www.alipay.one/post/mount-disk-on-centos-by-fdisk/</loc>
+        <lastmod>2023-04-22T12:21:30.021Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://www.alipay.one/post/nginx-common-options/</loc>
         <lastmod>2022-07-29T09:28:07.615Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -19,22 +27,6 @@
     <url>
         <loc>https://www.alipay.one/post/access-intranet-by-zerotier/</loc>
         <lastmod>2022-07-29T09:11:31.095Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://www.alipay.one/post/mount-disk-on-centos-by-fdisk/</loc>
-        <lastmod>2022-07-29T09:08:14.776Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://www.alipay.one/post/install-pptpd-on-centos/</loc>
-        <lastmod>2022-04-20T06:37:55.064Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 

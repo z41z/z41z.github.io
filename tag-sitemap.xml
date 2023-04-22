@@ -3,6 +3,48 @@
 
 
     <url>
+        <loc>https://www.alipay.one/tags/腾讯轻量云挂载/</loc>
+        <lastmod>2023-04-22T12:21:30.021Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/腾讯云挂载硬盘/</loc>
+        <lastmod>2023-04-22T12:21:30.021Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/CentOS挂载硬盘/</loc>
+        <lastmod>2023-04-22T12:21:30.021Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/分区/</loc>
+        <lastmod>2023-04-22T12:21:30.021Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/fdisk/</loc>
+        <lastmod>2023-04-22T12:21:30.021Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/CentOS/</loc>
+        <lastmod>2023-04-22T12:21:30.021Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://www.alipay.one/tags/WS/</loc>
         <lastmod>2022-07-29T09:28:07.615Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -159,62 +201,6 @@
     <url>
         <loc>https://www.alipay.one/tags/Zerotier/</loc>
         <lastmod>2022-07-29T09:11:31.095Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.alipay.one/tags/CentOS/</loc>
-        <lastmod>2022-07-29T09:11:31.095Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.alipay.one/tags/CentOS挂载硬盘/</loc>
-        <lastmod>2022-07-29T09:08:14.776Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.alipay.one/tags/分区/</loc>
-        <lastmod>2022-07-29T09:08:14.776Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.alipay.one/tags/fdisk/</loc>
-        <lastmod>2022-07-29T09:08:14.776Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.alipay.one/tags/mtu/</loc>
-        <lastmod>2022-04-20T06:37:55.064Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.alipay.one/tags/iptables/</loc>
-        <lastmod>2022-04-20T06:37:55.064Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.alipay.one/tags/PPTPD/</loc>
-        <lastmod>2022-04-20T06:37:55.064Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.alipay.one/tags/PPTP/</loc>
-        <lastmod>2022-04-20T06:37:55.064Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

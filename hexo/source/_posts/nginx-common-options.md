@@ -110,6 +110,32 @@ tags: [nginx,proxy_pass,minio,client_max_body_size,upstream,SPA,rewrite,动态�
       proxy_pass Gitlab地址;
     }
   ```
+  - 代理海康威视ISC
+  ``` nginx
+    server {
+      listen 443;
+      server_name hikvision.test.com;
+      add_header Access-Control-Allow-Origin *;
+      ssl_certificate /etc/letsencrypt/hikvision.test.com.pem;
+      ssl_certificate_key /etc/letsencrypt/hikvision.test.com.key;
+      ssl_session_timeout 5m;
+      ssl_protocols TLSv1 TLSv1.1 TLSv1.2;
+      ssl_ciphers AESGCM:ALL:!DH:!EXPORT:!RC4:+HIGH:!MEDIUM:!LOW:!aNULL:!eNULL;
+      ssl_prefer_server_ciphers on;
+      location / {
+        proxy_set_header Host 172.26.197.197;
+        proxy_pass https://172.26.197.197:2443;
+      }
+
+      location /media {
+        proxy_pass http://172.26.197.197:559/media;
+        proxy_http_version 1.1;
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection $connection_upgrade;
+        proxy_set_header Host 172.26.197.197:559;
+      }
+    }
+  ```
 
   - Github加速
   ``` nginx

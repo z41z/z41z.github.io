@@ -9,16 +9,8 @@
 
 
     <url>
-        <loc>https://www.alipay.one/post/mount-disk-on-centos-by-fdisk/</loc>
-        <lastmod>2023-04-22T12:21:30.021Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://www.alipay.one/post/nginx-common-options/</loc>
-        <lastmod>2022-07-29T09:28:07.615Z</lastmod>
+        <lastmod>2023-04-22T13:29:21.082Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -26,7 +18,15 @@
 
     <url>
         <loc>https://www.alipay.one/post/access-intranet-by-zerotier/</loc>
-        <lastmod>2022-07-29T09:11:31.095Z</lastmod>
+        <lastmod>2023-04-22T13:19:09.643Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/post/mount-disk-on-centos-by-fdisk/</loc>
+        <lastmod>2023-04-22T12:21:30.021Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 

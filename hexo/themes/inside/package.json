@@ -1,0 +1,65 @@
+{
+  "_from": "hexo-theme-inside",
+  "_id": "hexo-theme-inside@2.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-k7pAgkj06mcWCEEkX0DfUlZyaLUk7HRY2marPsB9S6Ic3PcsILvdQZWAiKXtnZbN31Ys+YektAbUzAJjPSLlgw==",
+  "_location": "/hexo-theme-inside",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "hexo-theme-inside",
+    "name": "hexo-theme-inside",
+    "escapedName": "hexo-theme-inside",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/hexo-theme-inside/-/hexo-theme-inside-2.0.1.tgz",
+  "_shasum": "e617d8b553b481af029132525ddffda31187f42d",
+  "_spec": "hexo-theme-inside",
+  "_where": "E:\\dev\\Github\\z41z.github.io\\blog",
+  "author": {
+    "name": "elmorec",
+    "email": "elmore.c@outlook.com"
+  },
+  "bugs": {
+    "url": "https://github.com/elmorec/hexo-theme-inside/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "❤️ SPA, flat and clean theme for Hexo.",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "hexo": "^3.8.0",
+    "jasmine": "^3.3.1",
+    "uglify-js": "^3.4.9"
+  },
+  "homepage": "https://github.com/elmorec/hexo-theme-inside#readme",
+  "keywords": [
+    "hexo",
+    "hexo theme",
+    "angular"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "elmorec",
+      "email": "elmore.c@outlook.com"
+    }
+  ],
+  "name": "hexo-theme-inside",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elmorec/hexo-theme-inside.git"
+  },
+  "scripts": {
+    "test": "jasmine --config=test/jasmine.json"
+  },
+  "version": "2.0.1"
+}

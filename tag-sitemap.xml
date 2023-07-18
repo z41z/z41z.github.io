@@ -3,6 +3,62 @@
 
 
     <url>
+        <loc>https://www.alipay.one/tags/防火墙/</loc>
+        <lastmod>2023-07-18T03:24:56.679Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/软链/</loc>
+        <lastmod>2023-07-18T03:24:56.679Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/chmod/</loc>
+        <lastmod>2023-07-18T03:24:56.679Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/npm/</loc>
+        <lastmod>2023-07-18T03:24:56.679Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/nodejs/</loc>
+        <lastmod>2023-07-18T03:24:56.679Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/pm2/</loc>
+        <lastmod>2023-07-18T03:24:56.679Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/Shell脚本/</loc>
+        <lastmod>2023-07-18T03:24:56.679Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/CentOS/</loc>
+        <lastmod>2023-07-18T03:24:56.679Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://www.alipay.one/tags/直播流测试/</loc>
         <lastmod>2023-04-23T14:42:50.059Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -200,13 +256,6 @@
 
     <url>
         <loc>https://www.alipay.one/tags/Zerotier/</loc>
-        <lastmod>2023-04-22T13:19:09.643Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.alipay.one/tags/CentOS/</loc>
         <lastmod>2023-04-22T13:19:09.643Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -654,14 +703,14 @@
     </url>
 
     <url>
-        <loc>https://www.alipay.one/tags/Docker/</loc>
+        <loc>https://www.alipay.one/tags/Cockpit/</loc>
         <lastmod>2020-12-30T03:34:31.199Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://www.alipay.one/tags/Cockpit/</loc>
+        <loc>https://www.alipay.one/tags/Docker/</loc>
         <lastmod>2020-12-30T03:34:31.199Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -676,13 +725,6 @@
 
     <url>
         <loc>https://www.alipay.one/tags/Pug/</loc>
-        <lastmod>2020-12-30T03:33:20.808Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.alipay.one/tags/nodejs/</loc>
         <lastmod>2020-12-30T03:33:20.808Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>

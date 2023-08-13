@@ -9,6 +9,14 @@
 
 
     <url>
+        <loc>https://www.alipay.one/post/auto-renew-letsencrypt-ssl-on-centos/</loc>
+        <lastmod>2023-08-13T11:14:56.875Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://www.alipay.one/post/centos-common-shell-command/</loc>
         <lastmod>2023-07-18T03:24:56.679Z</lastmod>
         <changefreq>weekly</changefreq>

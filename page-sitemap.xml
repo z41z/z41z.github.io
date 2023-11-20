@@ -10,6 +10,15 @@
     
     
     <url>
+        <loc>https://www.alipay.one/repos/</loc>
+        <lastmod>2023-11-20T08:16:58.105Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
         <loc>https://www.alipay.one/sites/</loc>
         <lastmod>2021-06-21T00:39:16.602Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -21,15 +30,6 @@
     <url>
         <loc>https://www.alipay.one/bookmarks/</loc>
         <lastmod>2021-01-05T00:33:20.197Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://www.alipay.one/repos/</loc>
-        <lastmod>2019-08-01T02:17:50.363Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>

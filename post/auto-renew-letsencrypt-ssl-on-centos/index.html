@@ -2,7 +2,7 @@
 <html lang="en">
 <head><meta name="generator" content="Hexo 3.8.0">
 <meta charset="utf-8">
-<title>CentOS利用Certbot申请Let&#39;s Encrypt SSL免费证书及通配符域名证书并自动续期 - z41z</title>
+<title>CentOS利用Certbot、acme.sh申请Let&#39;s Encrypt SSL免费证书及通配符域名证书并自动续期 - z41z</title>
 <base href="/">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
 <link rel="canonical" href="https://www.alipay.one/post/auto-renew-letsencrypt-ssl-on-centos/">
@@ -10,24 +10,24 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="translucent">
 <meta name="description" content="0x00：安装Certbot1yum -y install certbot   0x01：配置Nginx123location  /.well-known &amp;#123;  root html;&amp;#125;  0x02：申请证书(通配符证书在文章最后)1certbot certonly --webroot --agree-tos -v -t --email test@test.com -w /us">
-<meta name="keywords" content="CentOS,SSL,Nginx,证书,Let&#39;s Encrypt,LetsEncrypt,Certbot,通配符证书,免费域名证书">
+<meta name="keywords" content="CentOS,SSL,Nginx,证书,Let&#39;s Encrypt,LetsEncrypt,Certbot,通配符证书,免费域名证书,ACME,腾讯云,DNSPod">
 <meta property="og:type" content="website">
-<meta property="og:title" content="CentOS利用Certbot申请Let&#39;s Encrypt SSL免费证书及通配符域名证书并自动续期">
+<meta property="og:title" content="CentOS利用Certbot、acme.sh申请Let&#39;s Encrypt SSL免费证书及通配符域名证书并自动续期">
 <meta property="og:url" content="https://www.alipay.one/post/auto-renew-letsencrypt-ssl-on-centos/index.html">
 <meta property="og:site_name" content="z41z">
 <meta property="og:description" content="0x00：安装Certbot1yum -y install certbot   0x01：配置Nginx123location  /.well-known &amp;#123;  root html;&amp;#125;  0x02：申请证书(通配符证书在文章最后)1certbot certonly --webroot --agree-tos -v -t --email test@test.com -w /us">
 <meta property="og:locale" content="default">
 <meta property="og:image" content="https://www.alipay.one/head.jpg">
-<meta property="og:updated_time" content="2023-11-21T03:38:04.019Z">
+<meta property="og:updated_time" content="2024-02-19T01:21:32.949Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="CentOS利用Certbot申请Let&#39;s Encrypt SSL免费证书及通配符域名证书并自动续期">
+<meta name="twitter:title" content="CentOS利用Certbot、acme.sh申请Let&#39;s Encrypt SSL免费证书及通配符域名证书并自动续期">
 <meta name="twitter:description" content="0x00：安装Certbot1yum -y install certbot   0x01：配置Nginx123location  /.well-known &amp;#123;  root html;&amp;#125;  0x02：申请证书(通配符证书在文章最后)1certbot certonly --webroot --agree-tos -v -t --email test@test.com -w /us">
 <meta name="twitter:image" content="https://www.alipay.one/head.jpg">
 <link rel="stylesheet" href="/fonts.b9b22ef890c930ac7a13.css">
 <link rel="stylesheet" href="/styles.942c2aa7be6bc74cfb59.css">
 <link rel="stylesheet" href="/theme.d7ef789ffcc839fec8e1.css">
-<script src="/config.ebe0a70152528f4003d3.js"></script>
-<script type="application/ld+json">[{"@context":"http://schema.org","@type":"WebSite","publisher":{"@type":"Person","name":"z41z","description":"The quieter you become, the more you are able to hear.","image":"https://www.alipay.one/head.jpg"},"url":"https://www.alipay.one","image":"https://www.alipay.one/head.jpg","description":null,"author":{"@type":"Person","name":"z41z","description":"The quieter you become, the more you are able to hear.","image":"https://www.alipay.one/head.jpg"},"inLanguage":{"@type":"Language","alternateName":"en"}},{"@context":"http://schema.org","@type":"Article","articleSection":"","url":"https://www.alipay.one/post/auto-renew-letsencrypt-ssl-on-centos/","headline":"CentOS利用Certbot申请Let's Encrypt SSL免费证书及通配符域名证书并自动续期","image":"https://www.alipay.one/head.jpg","datePublished":"2023-08-13T10:49:02.183Z","dateModified":"2023-11-21T03:38:04.019Z","keywords":"CentOS,SSL,Nginx,证书,Let's Encrypt,LetsEncrypt,Certbot,通配符证书,免费域名证书","description":null,"publisher":{"@type":"Organization","name":"z41z","logo":{"@type":"ImageObject","url":"https://www.alipay.one/head.jpg"}},"author":{"@type":"Person","name":"z41z","description":"The quieter you become, the more you are able to hear.","image":"https://www.alipay.one/head.jpg"},"inLanguage":{"@type":"Language","alternateName":"en"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.alipay.one/post/auto-renew-letsencrypt-ssl-on-centos/"}}]</script></head>
+<script src="/config.0fa868bcb77b050aa419.js"></script>
+<script type="application/ld+json">[{"@context":"http://schema.org","@type":"WebSite","publisher":{"@type":"Person","name":"z41z","description":"The quieter you become, the more you are able to hear.","image":"https://www.alipay.one/head.jpg"},"url":"https://www.alipay.one","image":"https://www.alipay.one/head.jpg","description":null,"author":{"@type":"Person","name":"z41z","description":"The quieter you become, the more you are able to hear.","image":"https://www.alipay.one/head.jpg"},"inLanguage":{"@type":"Language","alternateName":"en"}},{"@context":"http://schema.org","@type":"Article","articleSection":"","url":"https://www.alipay.one/post/auto-renew-letsencrypt-ssl-on-centos/","headline":"CentOS利用Certbot、acme.sh申请Let's Encrypt SSL免费证书及通配符域名证书并自动续期","image":"https://www.alipay.one/head.jpg","datePublished":"2023-08-13T10:49:02.183Z","dateModified":"2024-02-19T01:21:32.949Z","keywords":"CentOS,SSL,Nginx,证书,Let's Encrypt,LetsEncrypt,Certbot,通配符证书,免费域名证书,ACME,腾讯云,DNSPod","description":null,"publisher":{"@type":"Organization","name":"z41z","logo":{"@type":"ImageObject","url":"https://www.alipay.one/head.jpg"}},"author":{"@type":"Person","name":"z41z","description":"The quieter you become, the more you are able to hear.","image":"https://www.alipay.one/head.jpg"},"inLanguage":{"@type":"Language","alternateName":"en"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.alipay.one/post/auto-renew-letsencrypt-ssl-on-centos/"}}]</script></head>
 <body>
 <is-d2a57d></is-d2a57d>
 <script src="/runtime.a5dd35324ddfd942bef1.js"></script>

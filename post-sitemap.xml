@@ -9,16 +9,16 @@
 
 
     <url>
-        <loc>https://www.alipay.one/post/auto-renew-acme-ssl-on-centos/</loc>
-        <lastmod>2024-02-20T01:24:27.465Z</lastmod>
+        <loc>https://www.alipay.one/post/auto-renew-letsencrypt-ssl-on-centos/</loc>
+        <lastmod>2024-02-20T01:26:23.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://www.alipay.one/post/auto-renew-letsencrypt-ssl-on-centos/</loc>
-        <lastmod>2024-02-20T01:13:31.757Z</lastmod>
+        <loc>https://www.alipay.one/post/auto-renew-acme-ssl-on-centos/</loc>
+        <lastmod>2024-02-20T01:24:27.465Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 

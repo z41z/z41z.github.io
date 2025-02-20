@@ -3,6 +3,62 @@
 
 
     <url>
+        <loc>https://www.alipay.one/tags/发票识别/</loc>
+        <lastmod>2025-02-20T00:59:52.799Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/工作流/</loc>
+        <lastmod>2025-02-20T00:59:52.799Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/AI/</loc>
+        <lastmod>2025-02-20T00:59:52.799Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/智能体/</loc>
+        <lastmod>2025-02-20T00:59:52.799Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/Dify/</loc>
+        <lastmod>2025-02-20T00:59:52.799Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/大模型/</loc>
+        <lastmod>2025-02-20T00:59:52.799Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/人工智能/</loc>
+        <lastmod>2025-02-20T00:59:52.799Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.alipay.one/tags/模型训练/</loc>
+        <lastmod>2025-02-20T00:47:48.111Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://www.alipay.one/tags/GPU/</loc>
         <lastmod>2025-02-20T00:47:48.111Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -18,27 +74,6 @@
 
     <url>
         <loc>https://www.alipay.one/tags/Cuda/</loc>
-        <lastmod>2025-02-20T00:47:48.111Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.alipay.one/tags/模型训练/</loc>
-        <lastmod>2025-02-20T00:47:48.111Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.alipay.one/tags/大模型/</loc>
-        <lastmod>2025-02-20T00:47:48.111Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.alipay.one/tags/人工智能/</loc>
         <lastmod>2025-02-20T00:47:48.111Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
